@@ -10,4 +10,4 @@ They can create and share multiple custom QR codes, to fit their networking or e
 It took 4 weeks from inception to final presentation??
 
 ### `Is the demo live?`
-Not, yet but it soon will be!
+https://tapwebapp.herokuapp.com/
